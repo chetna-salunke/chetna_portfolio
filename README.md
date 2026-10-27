@@ -2,6 +2,7 @@
 
 <img width="1400" height="672" alt="portfolio-site" src="https://github.com/user-attachments/assets/456630d0-955c-4500-acbe-fd0a0c6bdf04" />
 
+
 Personal portfolio built with **React · TypeScript · Redux Toolkit · Tailwind CSS**  
 Featuring unit tests with **Jest + React Testing Library** and deployed on **Netlify**.
 
